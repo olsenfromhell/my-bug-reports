@@ -34,7 +34,6 @@ Steps to reproduce:
 are selected as active and there are no conditions now;
 7. Unselect several values in Columns section;
 8. Press "Apply" button;
-9. Columns section values are now shown as "Empty".
 
 Expected result: Values in Columns section and Conditions section are saved as selected. Columns section values are shown as saved.
 Actual result: Values in Columns section and Conditions section are not saved. Column section values are shown as "Empty".
