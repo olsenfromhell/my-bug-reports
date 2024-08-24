@@ -1,4 +1,4 @@
-## I. LD - when the question-mark sign is pressed, tooltip does not disappear after scrolling or going back to prev. page
+## I. [%system/service/product_where_occured%] when the question-mark sign is pressed, tooltip does not disappear after scrolling or going back to prev. page
 
 ```text
 Preconditions: Logged in into LD CRM
@@ -18,7 +18,7 @@ Actual result: tooltip remains.
 Check screenshot and video in comments for visualization.
 ```
 
-## II. LD - Reports - Templates -  Default template - when changing elements in Columns section, it's value becomes "Empty"
+## II. [%system/service/product_where_occured%] when changing elements in Columns section, it's value becomes "Empty"
 
 ```text
 Preconditions: Logged in into LD CRM
@@ -41,7 +41,7 @@ Actual result: Values in Columns section and Conditions section are not saved. C
 For visual example check video below.
 ```
 
-## III. Demo - Eternal loader after clicking on "Go to Customer Area" button using Firefox
+## III. [%system/service/product_where_occured%] Eternal loader after clicking on "Go to Customer Area" button using Firefox
 
 ```text
 Preconditions:
